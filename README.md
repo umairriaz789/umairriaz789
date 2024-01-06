@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Umair Riaz</h1>
 <h3 align="center">A Passionate Blockchain developer and Smart Contracts Auditor from Pakistan</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/umair-riaz-1a2090141/?originalSubdomain=pk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umairriaz789" /></a> </p>
 <p align="left"> <a href="https://twitter.com/umairriaz789" target="blank"><img src="https://img.shields.io/twitter/follow/umairriaz789?logo=twitter&style=for-the-badge" alt="umairriaz789" /></a> </p>
 
 - 🔭 I’m currently working on [Secondarydao.com](www.secondarydao.com)
