@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Umair Riaz</h1>
 <h3 align="center">A Passionate Blockchain developer and Smart Contracts Auditor from Pakistan</h3>
 
-<p align="left"> <img src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704564327/resize-17045642921656284686resize17045641641722183396resize17045639261279149933IMG2253modified_hy6e3d.png" alt="umairriaz789" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umairriaz789" alt="umairriaz789" /></a> </p>
+<p align="Right"> <img src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704564327/resize-17045642921656284686resize17045641641722183396resize17045639261279149933IMG2253modified_hy6e3d.png" alt="umairriaz789" /> </p>
 
 <p align="left"> <a href="https://twitter.com/umairriaz789" target="blank"><img src="https://img.shields.io/twitter/follow/umairriaz789?logo=twitter&style=for-the-badge" alt="umairriaz789" /></a> </p>
 
