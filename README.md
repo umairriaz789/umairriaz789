@@ -13,7 +13,21 @@
 - 📫 How to reach me **umairriaz789@gmail.com**
 
 - 📄 Know about my experiences [https://umairriaz.surge.sh/](https://umairriaz.surge.sh/)
+- 
+<h3 align="left">Specialization</h3>
+<img align="right" width=300px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584370/107914194_2_khi5gw.jpg" />
+<img align="right" width=300px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584551/Data_Set_1743-1_d2egom.png" />
+<br><br>
+✔**Certification in Blokchain and Smart Contract Security, Hacking and Audit** <br>
+✔**Certification in EVM Based Blokchain Development**<br>
 
+<br><br><br><br>
+
+
+<h3 align="left">Education</h3>
+<p align="left"> <img width=30px src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704583013/59e47443259fadca4151fd6273ac0ebd_ihopjm.png" alt="akash-chowrasia" />University of the Engineering and Teachnology lahore (BSc in Comaputer Scineces) </p>
+<p align="left"> <img width=30px src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704583083/punjab-university-lahore-logo_laxs1b.png" alt="akash-chowrasia" />
+ University of the Punjab lahore (BSc in Mathematics) </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umairriaz789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umairriaz789" height="30" width="40" /></a>
