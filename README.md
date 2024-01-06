@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umair Riaz</h1>
-<h3 align="center">A passionate Blockchain developer and Smart Contracts Auditor from Pakistan</h3>
+<h1 align="center">Hi, I'm Umair Riaz</h1>
+<h3 align="center">A Passionate Blockchain developer and Smart Contracts Auditor from Pakistan</h3>
 
 <p align="left"> <img src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704564327/resize-17045642921656284686resize17045641641722183396resize17045639261279149933IMG2253modified_hy6e3d.png" alt="umairriaz789" /> </p>
 
