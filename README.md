@@ -35,15 +35,15 @@ xdcb9101A13daB2cbD36125B09BcBbf7ED63c62755E
 ✔ Token Symbol: <b>XUSD</b><br>
  <br>
 <h3 align="left">Projects Details:</h3>
-:one: Real Estate (Rental property) Tokenization Smart Contract (DAO)<br/>
-:two: LaunchPad Smart Contract<br/>
-:three: CrowdFunding DAPP.<br/> 
-:four: ICO of ERC-20 Token Complete Code<br/>
-:five: NFT MARKET-PLACE DApp<br/> 
-:six: NFT Minting DApp (ERC-721) <br/> 
-:seven: ERC-20 DApp<br/> 
-:eight: EXPENSE TRACKER DApp<br/> 
-:nine: INVOICE-APP<br/> 
+1: Real Estate (Rental property) Tokenization Smart Contract (DAO)<br/>
+2: LaunchPad Smart Contract<br/>
+3: CrowdFunding DAPP.<br/> 
+4: ICO of ERC-20 Token Complete Code<br/>
+5: NFT MARKET-PLACE DApp<br/> 
+6: NFT Minting DApp (ERC-721) <br/> 
+7: ERC-20 DApp<br/> 
+8: EXPENSE TRACKER DApp<br/> 
+9: INVOICE-APP<br/> 
 10: COVID-19 APP<br/> 
 
 <h3 align="left">Education</h3>
