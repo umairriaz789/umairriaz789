@@ -33,6 +33,18 @@ xdcb9101A13daB2cbD36125B09BcBbf7ED63c62755E
 </a><br>
 ✔ Token Name: <b>XUSD Token</b> <br>
 ✔ Token Symbol: <b>XUSD</b><br>
+ <br>
+<h3 align="left">Projects Details:</h3>
+:one: Real Estate (Rental property) Tokenization Smart Contract (DAO)<br/>
+:two: LaunchPad Smart Contract<br/>
+:three: CrowdFunding DAPP.<br/> 
+:four: ICO of ERC-20 Token Complete Code<br/>
+:five: NFT MARKET-PLACE DApp<br/> 
+:six: NFT Minting DApp (ERC-721) <br/> 
+:seven: ERC-20 DApp<br/> 
+:eight: EXPENSE TRACKER DApp<br/> 
+:nine: INVOICE-APP<br/> 
+10: COVID-19 APP<br/> 
 
 <h3 align="left">Education</h3>
 <p align="left"> <img width=30px src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704583013/59e47443259fadca4151fd6273ac0ebd_ihopjm.png" alt="akash-chowrasia" />University of the Engineering and Teachnology lahore (BSc in Comaputer Scineces) </p>
