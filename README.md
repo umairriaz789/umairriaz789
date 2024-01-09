@@ -20,8 +20,8 @@ technical frameworks, rigorous <b>smart contract testing</b>, and forward-thinki
 - 💬 Ask me about **MERN, Smart Contracts in Solidity**
   
 <h3 align="left">Specialization</h3>
-<img align="right" width=300px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584370/107914194_2_khi5gw.jpg" />
-<img align="right" width=300px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584551/Data_Set_1743-1_d2egom.png" />
+<img align="right" width=200px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584370/107914194_2_khi5gw.jpg" />
+<img align="right" width=200px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584551/Data_Set_1743-1_d2egom.png" />
 <br><br>
 ✔ <b>Certification in Blokchain and Smart Contract Security, Hacking and Audit</b> <br>
 ✔ <b>Certification in EVM Based Blokchain Development</b><br>
