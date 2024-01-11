@@ -23,7 +23,7 @@ technical frameworks, rigorous <b>smart contract testing</b>, and forward-thinki
 <img align="right" width=150px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584370/107914194_2_khi5gw.jpg" />
  <b>
 <img align="right" width=150px alt="Unicorn" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704584551/Data_Set_1743-1_d2egom.png" />
-<br><br>
+<br>
 ✔ <b>Certification in Blokchain and Smart Contract Security, Hacking and Audit</b> <br>
 ✔ <b>Certification in EVM Based Blokchain Development</b><br>
 
