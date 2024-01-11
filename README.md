@@ -26,7 +26,6 @@ technical frameworks, rigorous <b>smart contract testing</b>, and forward-thinki
 <br>
 ✔ <b>Certification in Blokchain and Smart Contract Security, Hacking and Audit</b> <br>
 ✔ <b>Certification in EVM Based Blokchain Development</b><br>
-
 <br><br><br><br>
 <h3 align="left">My Own Token on <b>XinFin</b></h3>
 <a href="https://xdc.blocksscan.io/address/xdcb9101A13daB2cbD36125B09BcBbf7ED63c62755E#transactions" target="blank"><img align="center" src="https://res.cloudinary.com/dsybcfxyc/image/upload/v1704587245/2634_zcu9qz.png" alt="umair_riaz789" height="40" width="40" /> 
