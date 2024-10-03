@@ -1,8 +1,8 @@
 <p align="center"> <img width="100px" src="https://res.cloudinary.com/almonive/image/upload/v1704639905/su5lgkoppabmcajaxqng.png" alt="umairriaz789" /> </p>
 <h1 align="center">Umair Riaz</h1>
-<h3 align="center">Email: umairriaz789@gmail.com</h3>
+<p align="center">Email: umairriaz789@gmail.com</p>
 
-<h3 align="center">WhatsApp: +923464440030</h3>
+<p align="center">WhatsApp: +923464440030</p>
 
 <h3 align="center">A Passionate Blockchain developer and Smart Contracts Auditor from Pakistan</h3>
 <p align="center">
